@@ -1,4 +1,4 @@
-# 🌌 It's me Goku 🌌
+# It's me Goku
 
 ### Space Exploration Imagery
 
