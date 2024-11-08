@@ -1,6 +1,4 @@
-# 🌌 It's me Goku 🌌
-
-### Space Exploration Imagery
+# It's me Goku
 
 <div align="center">
   <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Astronaut_1.jpg" width="800" alt="Astronaut Image 1">
