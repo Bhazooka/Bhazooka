@@ -1,4 +1,4 @@
-# It's me Goku
+# Gogeta
 
 <div align="center">
   <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Astronaut_1.jpg" width="300" alt="Astronaut Image 1"> -->
