@@ -1,28 +1,41 @@
 # It's me
-<div>
-<!-- GOKU VS MORROW -->
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Goku_vs_Morrow_2.gif" width="400" alt="Image"> -->
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Astronaut_1.jpg" width="300" alt="Astronaut Image 1"> -->
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Pixel_Goku.gif" width="200" alt="Image"> -->
-    
-<!-- TEKKEN X STREET FIGHTERS -->
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Kazuya_Stance.gif" height="250" alt="Image">
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Play.gif" width="220" height="220" alt="Image">
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" height="325" width="370" alt="Image"> -->
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Dark_Ryu_Stance.gif" height="220" alt="Image">
-<div>
-
----
-  ### Let's Connect!
-  Feel free to reach out for collaboration, insights, or just to say hi!
-  <!-- Add Linked in and others -->
-  [LinkedIn](https://www.linkedin.com/in/baraka-bukanga/) | [Portfolio](https://www.your-portfolio-link.com) | [GitHub](https://github.com/Bhazooka)
-
----
+<div class="gif-container">
+  <!-- Small Screen GIF (for mobile or half-screen width) -->
+  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" class="small-screen" height="325" width="370" alt="Image">
   
+  <!-- Large Screen GIFs (for full laptop/desktop screen width) -->
+  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Kazuya_Stance.gif" class="large-screen" height="250" alt="Image">
+  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Play.gif" class="large-screen" width="220" height="220" alt="Image">
+  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Dark_Ryu_Stance.gif" class="large-screen" height="220" alt="Image">
+</div>
+
+<style>
+  /* Hide small screen GIF by default */
+  .small-screen {
+    display: none;
+  }
+
+  /* smaller screens */
+  @media (max-width: 768px) {
+    .small-screen {
+      display: block;
+    }
+    .large-screen {
+      display: none;
+    }
+  }
+</style>
+
+---
+
+### Let's Connect!
+Feel free to reach out for collaboration, insights, or just to say hi!
+[LinkedIn](https://www.linkedin.com/in/baraka-bukanga/) | [Portfolio](https://www.your-portfolio-link.com) | [GitHub](https://github.com/Bhazooka)
+
+---
+
 <!-- BOXERS GIFS -->
 <div>
   <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Boxing_Opp.gif" width="110" alt="Image">
   <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Boxing.gif" width="100" alt="Image">
-<div>
-
+</div>
