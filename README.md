@@ -7,8 +7,8 @@
     
 <!-- TEKKEN X STREET FIGHTERS -->
   <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Kazuya_Stance.gif" height="250" alt="Image">
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Play.gif" width="220" height="220" alt="Image"> -->
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" height="325" width="370" alt="Image">
+  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Play.gif" width="220" height="220" alt="Image">
+  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" height="325" width="370" alt="Image"> -->
   <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Dark_Ryu_Stance.gif" height="220" alt="Image">
 <div>
 
