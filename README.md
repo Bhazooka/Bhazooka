@@ -1,4 +1,4 @@
-# It's me
+# Hello
 <div class="gif-container">
   <!-- Small Screen GIF (for mobile or half-screen width) -->
   <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" class="small-screen" height="325" width="370" alt="Image"> -->
@@ -34,8 +34,7 @@ Leving this here for the day they do.
 
 ---
 
-### Let's Connect!
-Haha  
+### Let's Connect!  
 Feel free to reach out for collaboration, insights, or just to say hi!
 <!-- [LinkedIn](https://www.linkedin.com/in/baraka-bukanga/) | [Portfolio](https://www.your-portfolio-link.com) | [GitHub](https://github.com/Bhazooka) -->
 
