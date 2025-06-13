@@ -34,8 +34,6 @@ Leving this here for the day they do.
 
 ---
 
-### Let's Connect!  
-Feel free to reach out for collaboration, insights, or just to say hi!
 <!-- [LinkedIn](https://www.linkedin.com/in/baraka-bukanga/) | [Portfolio](https://www.your-portfolio-link.com) | [GitHub](https://github.com/Bhazooka) -->
 
 ---
