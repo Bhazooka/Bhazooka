@@ -1,45 +1,59 @@
-# Hello
-<div class="gif-container">
-  <!-- Small Screen GIF (for mobile or half-screen width) -->
-  <!-- <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Bumb.gif" class="small-screen" height="325" width="370" alt="Image"> -->
-  
-  <!-- Large Screen GIFs (for full laptop/desktop screen width) -->
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Kazuya_Stance.gif" class="large-screen" height="250" alt="Image">
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Ken_Ryu_Play.gif" class="large-screen" width="220" height="220" alt="Image">
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Dark_Ryu_Stance.gif" class="large-screen" height="220" alt="Image">
-</div>
+# Welcome
 
-<!-- 
-UNFORTUNATELY GITHUB DOESN'T SUPPORT <style> tags and CSS Queries so no responsive images
-Leving this here for the day they do. 
+I am a Software Engineer with experience in machine learning, data analysis, system design, and full-stack development. My work spans Python, C/C++, Java, JavaScript, React, Next.js, and cloud technologies. I’ve built projects involving computer vision, reinforcement learning, blockchain, VR simulation, and multilingual LLM development.
 
-<style>
-  /* Hide small screen GIF by default */
-  .small-screen {
-    display: none;
-  }
+I use GitHub to document my learning, explore new ideas, and build practical, intelligent systems.
 
-  /* Query for smaller screens */
-  @media (max-width: 768px) {
-    .small-screen {
-      display: block;
-    }
-    .large-screen {
-      display: none;
-    }
-  }
-</style> 
-
--->
 
 ---
 
-<!-- [LinkedIn](https://www.linkedin.com/in/baraka-bukanga/) | [Portfolio](https://www.your-portfolio-link.com) | [GitHub](https://github.com/Bhazooka) -->
+## Skills & Associated Projects
+
+| Skill Area | Technologies | Associated Project(s) |
+|-----------|--------------|------------------------|
+| **Machine Learning & AI** | Python, NumPy, Pandas, TensorFlow, PyTorch, Scikit-Learn | • Real-Time Facial Gesture Control System  <br>• Reinforcement Learning Self-Driving Simulation <br>• Custom LLM (Setswana–Sepedi–Sesotho) |
+| **Computer Vision** | OpenCV, Numpy, Image Processing | • Facial Gesture Recognition System |
+| **Full-Stack Development** | React, Next.js, TypeScript, Node.js, Docker, MySQL | • Artisan Management System <br>• Ecommerce Website |
+| **Systems & Low-Level Development** | C, C++, Algorithms & Data Structures | • VR Physics Simulation (Intern Project) <br>• C++/C Algorithm Implementations |
+| **Blockchain Technologies** | Java, SHA-256, Merkle Trees, Proof of Work | • Blockchain Certificate Verification System |
+| **Data Analysis & Modeling** | Python, SEM, EFA, Statistical Modeling | • Research & Data Analysis Projects (JBS Team) |
+| **Cloud & DevOps** | Azure DevOps, AWS, CI/CD, Automation | • Wiki Automation (Azure DevOps) |
+| **Mobile Development** | React Native, Android Studio | • Artisan Management System (Mobile App) |
+
 
 ---
 
-<!-- BOXERS GIFS -->
-<div>
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Boxing_Opp.gif" width="110" alt="Image">
-  <img src="https://github.com/Bhazooka/Bhazooka/raw/main/Boxing.gif" width="100" alt="Image">
-</div>
+## Highlighted Projects
+
+### Real-Time Facial Gesture Recognition System
+AI-powered system enabling hands-free computer navigation through facial gestures.  
+**Tech:** Python, Numpy, Image Processing, CNNs
+
+---
+
+### Reinforcement Learning Self-Driving Simulation
+2D self-driving agent trained using Q-Learning to navigate a dynamic track.  
+**Tech:** Python, RL Algorithms  
+**Demo:** https://youtu.be/PKUZv4p2IBs
+
+---
+
+### Spitori LLM – Multilingual Language Model
+Custom LLM trained on Setswana–Sepedi–Sesotho datasets to explore multilingual representation learning.  
+**Tech:** Python, PyTorch, Tokenizers
+
+---
+
+### Blockchain Certificate Verification System
+Java-based system using blockchain principles to authenticate and verify digital certificates.  
+**Tech:** Java, SHA-256, Merkle Trees  
+**Demo:** https://www.youtube.com/watch?v=-6cDHgykPxo
+
+---
+
+### Artisan Management System (Web + Mobile)
+Full-stack system enabling job management, scheduling, resource tracking, and employee management.  
+**Tech:** Next.js, React, TypeScript, React Native, Node.js, MySQL  
+**Demo:** https://www.youtube.com/watch?v=z-xXZEdPICg
+
+---
