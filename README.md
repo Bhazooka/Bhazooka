@@ -3,7 +3,7 @@
 I am a Software Engineer with experience in machine learning, data analysis, system design, and full-stack development. My work spans Python, C/C++, Java, JavaScript, React, Next.js, and cloud technologies. I’ve built projects involving computer vision, reinforcement learning, blockchain, VR simulation, and multilingual LLM development.
 
 I use GitHub to document my learning, explore new ideas, and build practical, intelligent systems.
-
+https://www.linkedin.com/in/baraka-bukanga-098719219/
 
 ---
 
